@@ -1,0 +1,26 @@
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mytomcat9
+  labels:
+    app: mytomcat9
+spec:
+  containers:
+  - name: mytomcat9
+    image: harikrishna857/mytomcat9
+    ports:
+    - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: mytomcat9
+spec:
+  type: NodePort
+  selector:
+    app: mytomcat9
+  ports:
+  - port: 80
+    targetPort: 8080
+...
