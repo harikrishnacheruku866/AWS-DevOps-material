@@ -1,4 +1,4 @@
-360_Degree_Freshers_aws_Linux_Batch-2 PlayList Youtube ULR : https://www.youtube.com/playlist?list=PL5VWSIe6Ke7l8Xw-3-RJvbRfVAwU8N5Y3
+360_Degree_Freshers_aws_Linux_Batch-2 PlayList Youtube ULR : https://www.youtube.com/playlist?list=PL5VWSIe6Ke7kdsUHZjZ4QvddUcnu6juVg
 
 Day4 Video recording url : CentOS 7 OS Installation | Step-by-Step Guide - https://youtu.be/OIJQ9Jk3K4U
 
