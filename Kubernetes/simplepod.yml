@@ -1,10 +1,14 @@
+---
 apiVersion: v1
 kind: Pod
 metadata:
-  name: webserver
+  name: mytomcat9
+  labels:
+    app: mytomcat9
 spec:
   containers:
-  - name: webserver
-    image: nginx:latest
+  - name: mytomcat9
+    image: harikrishna857/mytomcat9
     ports:
-    - containerPort: 80
+    - containerPort: 8080
+    ...
