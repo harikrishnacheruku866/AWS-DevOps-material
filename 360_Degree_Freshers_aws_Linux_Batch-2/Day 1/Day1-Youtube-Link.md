@@ -1,4 +1,4 @@
-360_Degree_Freshers_aws_Linux_Batch-2 PlayList Youtube ULR : https://www.youtube.com/playlist?list=PL5VWSIe6Ke7l8Xw-3-RJvbRfVAwU8N5Y3
+360_Degree_Freshers_aws_Linux_Batch-2 PlayList Youtube ULR : https://www.youtube.com/playlist?list=PL5VWSIe6Ke7kdsUHZjZ4QvddUcnu6juVg
 
 Day1 Video recording url : https://www.youtube.com/watch?v=H6aBSwJTptM&list=PL5VWSIe6Ke7kdsUHZjZ4QvddUcnu6juVg&index=1
 
