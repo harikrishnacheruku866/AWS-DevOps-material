@@ -1,0 +1,60 @@
++++++++++++++
+20days course
++++++++++++++
+
+Linux + AWS cloud + Git (Version control system)
+
+What is Linux ? --? 
+
+Why we need to use Linux ? where exactly using Linux?
+
+
+What is Cloud ? what is aws cloud? why we need to use AWS ?
+
+
+Class timings - 6pm to 7pm daily
+
+Linux :
+1. what is os?
+how many types of os's?
+how many types of hardwares?
+who invented the linux os?
+basic commands of linux
+
+how to install linux os on oracle virtual machine?
+what is bare metal software?
+what is physicla server vs virtual server/machine?
+--> user administration
+--> file permissions
+--> disk partitions
+--> package management
+--> webserver installation (tomcat, apache)
+--> deploy one application/website in the tomcat and apache webserver (realtime webapplication deployment)
+--> realtime environments
+--> physical hardware 
+--> what is Data Center/ Onprimise environment
+
+
+Cloud : 
+what is cloud ? why cloud? where we can use this cloud?
+what are the cloud providers (aws, gcp, azure , oci and ibm )
+why it is popular?
+
+what is purpose of the cloud? why they moved to cloud? before cloud which env to user for deploying the applications.
+
+AWS services like :
+1. EC2, IAM, S3, VPC, RDS ...etc ...
+
+Git (version control system)
+
+what is git? what are the remote repositories?
+What is Github/GitLab/Bitbucket
+
+
+
+********************************************
+Daily 6pm to 7pm & course duration is 20days
+Linux
+AWS
+GIT
+*********************************************
