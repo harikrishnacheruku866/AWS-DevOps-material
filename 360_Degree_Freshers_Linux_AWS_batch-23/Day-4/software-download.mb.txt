@@ -1,5 +1,7 @@
 Oracle virtual box download url : https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe VS C++ software download url: https://aka.ms/vs/16/release/vc_redist.x64.exe
 
+Centos7 iso image url for download: https://drive.google.com/drive/folders/1MNTZmM2ib-fetSLc4jos__BGwezDtN3U?usp=sharing
+
 Centos9 iso image download url: https://mirrors.centos.org/mirrorlist?path=/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso&redirect=1&protocol=https
 
 ++++++++++++++++ Day4 +++++++++++++++++ What is diff b/w physical and virtual machines
