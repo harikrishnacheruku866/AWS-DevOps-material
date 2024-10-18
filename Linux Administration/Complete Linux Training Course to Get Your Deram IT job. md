@@ -1,0 +1,291 @@
+Complete Linux Training Course to Get Your Dream IT Job | The Best Linux administration course for corporate jobs and certifications
+
+What you will learn:
+--> By the end of this course you will be a professional Linux administrator and be able to apply for Linux jobs
+--> You will learn 300+ Linux system administration commands
+--> You will gain advance Linux systems administration skills and have deep understanding of Linux fundamentals and concepts
+--> You will manage Linux servers in a corporate environment
+--> Understand the concept of permissions and how to set them for files and directories
+--> You will be able to take the EX-200 exam and become Redhat Certified System Administrator (RHCSA - EX200)
+--> This course will prepare you for CompTIA Linux+ (XK0-004) and LPI Linux Essentials
+--> CentOS, CentOS Stream and RedHat version 7, 8 and 9
+--> You will be able to troubleshoot everyday Linux related issues
+--> You will write basic to advanced-level shell scripts
+Requirements:
+. The course covers everything about Linux from scratch so no prior experience required
+. Desire to reach your goals and dreams
+. A computer with at least 4G of RAM
+Following is the list of topics I will cover in this course:
+Module 1 – Understanding Linux Concepts
+1.What is Linux?
+2.Everyday use of Linux
+3. Unix vs. Linux
+Quiz, Homework and Handouts
+Module 2 – Download, Install and Configure
+1.What is Oracle Virtual Box?
+Downloading and Installing Oracle Virtual Box
+Creating virtual machine
+Linux Distributions
+Different way to install Linux
+Downloading and Installing Linux (CentOS)
+Redhat Linux installation (Optional)
+Linux Desktop (GUI)
+Virtual Machine Management
+Linux vs. Windows
+Who Uses Linux?
+Quiz, Homework and Handouts
+Module 3 – System Access and File System
+Accessing Linux system
+Download and install Putty
+Connect Linux VM via Putty
+Important Things to Remember in Linux
+Introduction to File System
+File system structure description
+File system navigation commands
+File System Paths
+Directory listing overview
+Creating Files and Directories
+
+Finding Files and Directories (find, locate)
+Changing Password
+Wildcards
+Combining and Splitting Files (cat and cut)
+Soft and Hard Links (ln)
+Quiz, Homework and Handout
+Module 4 – Linux Fundamentals
+Commands Syntax
+File Permissions (chmod)
+File Ownership (chown, chgrp)
+Getting Help (man, whatis etc.)
+TAB completion and up arrow keys
+Adding text to file
+Pipes
+File Maintenance Commands
+File Display Commands
+Filters / Text Processing Commands (cut, sort, grep, awk, uniq, wc)
+Compare Files (diff, cmp)
+Compress and Un-compress files/directories (tar, gzip, gunzip)
+
+Combining and Splitting Files
+
+Linux vs. Windows Commands
+
+Quiz, Homework and Handouts
+
+
+
+
+
+Module 5 – System Administration
+
+Linux File Editors (vi text editor)
+
+sed Command
+
+User account management
+
+Switch users and Sudo access
+
+Monitor users
+
+Talking to users (users, wall, write)
+
+Linux Directory Service - Account Authentication
+
+Difference between Active Directory, LDAP, IDM, WinBIND, OpenLDAP etc.
+
+System utility commands (date, uptime, hostname, which, cal, bc etc.)
+
+Processes and schedules (systemctl, ps, top, kill, crontab and at)
+
+Process Management
+
+System Monitoring Commands (top, df, dmesg, iostat 1, netstat, free etc.)
+
+OS Maintenance Commands (shutdown, reboot, halt, init etc.)
+
+Changing System Hostname (hostnamectl)
+
+Finding System Information (uname, cat /etc/redhat-release, cat /etc/*rel*, dmidecode)
+
+System Architecture (arch)
+
+Terminal control keys
+
+Terminal Commands (clear, exit, script)
+
+Recover root Password (single user mode)
+
+SOS Report
+
+Quiz, Homework and Handouts
+
+
+
+Module 6 – Shell Scripting
+
+Linux Kernel
+
+What is a Shell?
+
+Types of Shells
+
+Shell scripting
+
+Basic Shell scripts
+
+If-then scripts
+
+For loop scripts
+
+do-while scripts
+
+Case statement scripts
+
+Aliases
+
+Shell History
+
+Command history
+
+
+
+Module 7 – Networking, Servers and System Updates
+
+Enabling internet in Linux VM
+
+Network Components
+
+Network files and commands (ping, ifconfig, netstat, tcpdump, networking config files)
+
+NIC Information (ethtool)
+
+NIC or Port Bonding
+
+Downloading Files or Apps (wget)
+
+curl and ping Commands
+
+File Transfer Commands
+
+System updates and repositories (rpm and yum)
+
+System Upgrade/Patch Management
+
+Create Local Repository from CD/DVD
+
+Advance Package Management
+
+SSH and Telnet
+
+DNS
+
+Hostname and IP Lookup (nslookup and dig)
+
+NTP
+
+chronyd (Newer version of NTP)
+
+Sendmail
+
+Apache Web Server
+
+Central Logger (rsyslogd)
+
+Securing Linux Machine (OS Hardening)
+
+OpenLDAP Installation
+
+Quiz, Homework and Handouts
+
+
+
+Module 8 – Disk Management and Run Levels
+
+System run levels
+
+Linux Boot Process
+
+Message of the Day
+
+Disk partition (df, fdisk, etc.)
+
+Storage
+
+Logical Volume Management (LVM)
+
+LVM Configuration during Installation
+
+Add Disk and Create Standard Partition
+
+Add Disk and Create LVM Partition
+
+LVM Configuration during Installation
+
+Add Virtual Disk and Create New LVM Partition (pvcreate, vgcreate, lvcreate,)
+
+Extend Disk using LVM
+
+Adding Swap Space
+
+RAID
+
+Quiz, Homework and Handouts
+
+
+
+Module 9 – All About Resume
+
+Resume workshop
+
+Cover Letter
+
+Linux job description or duties
+
+Exposure to Other Technologies
+
+Homework and Handouts
+
+
+
+Module 10 – All About Interview
+
+IT Components
+
+IT Job Statistics
+
+Linux Around Us
+
+Linux Operating System Jobs
+
+IT Management Jobs
+
+Post Resume and What to Expect
+
+Interview workshop
+
+Red Hat Certifications (RHCSA, RHCE etc.)
+
+Join Linux Community
+
+200+ interview questions
+
+Homework
+
+
+
+Course Recap
+
+Commands We Have Learned
+
+Don't Give up
+
+Congratulations
+
+Recap - Handouts
+
+
+
+Additional Resources
+
+Many extra lectures
