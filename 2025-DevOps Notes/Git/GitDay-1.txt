@@ -1,0 +1,67 @@
+Source code Repository tools
++++++++++++++++++++++++++++
+
+Guys now see here! In a project one developer will be available or multiple developer will be available?
+
+Ans is multiple developers will be working in side a project.
+
+Now multiple developers will be working in a project
+
+show the Paint diagram 
+
+Devteam is nothing but set of or group of developers will be available in order to develop the project
+
+all the developers will work in the same location or all the developers will work on different locations?
+
+ans: developers will work from different different locations but they are working on the same project
+
+now if you take a any project now you see a project called MakeMyTrip application available  
+
+www.makemytrip.com
+
+MakeMyTrip having different different functionalities flights booking available , hotels booking available, homestays,
+trains, buses, cabs and charterflights like this .! different different functionalities are available .. some 
+developer is working on flights functionality and another developer is working on the trains functionality and another
+developer is working on the cabs functionality but the code should be integrated at one place that code repository
+comes into the picture
+OK source code repository comes into the picture
+
+now the 1st developer will communicate with source code repository and second developer also communicate with source 
+code repository, 3rd and 4th developer also communicate with source code repository.
+
+Every developer will connect with the source code repository for the code integration purpose
+
+developers has done the coding whatever they develop and stored it into repository server.source code will be stored into repository server
+now how to work with this repository server there are several repository servers are available
+
+this will show it to students:
+
+Source code Repository tools
++++++++++++++++++++++++++++
+
+--> Multiple developers will work for project development
+
+--> Developers will be working from multiple locations
+
+--> All developers code should be store at one place(Code Integration Should Happen)
+
+--> To integrate all the developers source code at one place we will use source code repository software's
+
+
+
+after Source repository Diagram on paint will explain this
+who, when what after
+
+all these things we can monitor for the project source code because source code is very important
+
+developers are keep there blood to write the source code .. writing source code is very diffecult and development
+is very difficult guys they are going to keep lot of efforts to write the code
+
+Assume that I am developer yesterday I my code is working successfully but today my code is not working because some 
+body modified that code.
+do I need to find out who modified my code or not? Guys come on ...
+
+ Yesterday my code was working successfully but today morning my code is not working the reason is some body 
+modified my code.. 
+do I need to find out who modified my code or not? 
+ans: Yes that means monitored access for my code
