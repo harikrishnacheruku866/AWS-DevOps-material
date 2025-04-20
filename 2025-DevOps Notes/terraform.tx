@@ -1,0 +1,23 @@
+
+Terraform:
+++++++++++
+
+==> It is infra as code tool which we can use this tool and build the infra on any cloud provider
+
+===> Hashicorp developed the terraform tool
+
+===> .tf is the extension (terraform file)
+
+==> download the binary file and use it and if you want to run the terraform command on anywhere we need to set
+
+environment variable.
+
+==> terraform init --> initialization between your provider(aws) to terraform installed machine
+
+    terraform plan  --> blue print (what we are trying to apply on cloud provider)
+ 
+    terraform apply  --> apply the changes on requested cloud provider
+ 
+    terraform destroy --> termination/deletion of you infra
+
+
