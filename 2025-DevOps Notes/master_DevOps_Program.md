@@ -2,14 +2,12 @@
 Master Program On DevOps with AWS
 ==================================
 
-Trainer : Mr. Ashok (9+ yrs Exp)
+Trainer : Mr. Hari (12+ yrs Exp)
 
-Current Role : Tech Lead
+Current Role : AWS DevOps Solution Architech
 
-Skills : Java Fullstack Developer
-	 Microservices
-	 Angular
-	 Linux, AWS and DevOps
+Skills :  Linux, AWS and DevOps
+          Kubernetes
 
 Pre-requisites : Nothing
 
