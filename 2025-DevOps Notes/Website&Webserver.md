@@ -5,8 +5,12 @@ What is a Web Site?
  A website is a collection of related web pages, images, videos or other digital
 assets that are mapped relative to a common Uniform Resource Locator (URL),
 often consisting of only the domain name, or the IP address
+
+
  A URL can be thought of as the "address" of a web page and is sometimes
 referred to informally as a "web address."
+
+
 Example:
 www.blujaytech.com --> URL Name
 sys1.blujaytech.com --> FQDN(Fully Qualified Domain Name) of web server
