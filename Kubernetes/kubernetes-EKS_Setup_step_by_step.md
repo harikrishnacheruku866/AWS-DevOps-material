@@ -85,7 +85,7 @@ Step - 4 : After your practise, delete Cluster and other resources we have used 
 
 
 
-
+eksctl delete cluster --name ashokit-cluster4 --region ap-south-1
 
 
 
