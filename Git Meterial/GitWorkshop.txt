@@ -1,0 +1,634 @@
+Understand some "Common Problems" developers face (without Git)
+Learn what is Version Control System (VCS )
+Download & Install Git Source Control System
+Create "First Git Project" (Initialize a Git Repository)
+Learn the key concepts of "Git Basic Workflow"
+Understand the difference between "Git Untracked" and "Git Tracked" files
+3 stages: Working Directory - Git Staging Area - Git Repository
+Learn Git Common Commands - "git status", "git add", "git commit", "git log"
+Review Changes using "git diff"
+Unstage & Revert - Important Git and GitHub functionalities
+Remove a file from a Git Repository
+Git GitHub: Introduction to GitHub [*Remote* Version Control System]
+Create a GitHub account
+Configure Remote GitHub repository with Local Git
+PUSH Local Repository to GitHub Repository
+Creating New Repository on GitHub
+Clone, Fork and Pull using Git and GitHub
+GitHub: Raw, Blame, and History
+GitHub: Watch, Star and Fork
+GitHub Issues & Labels
+Git Premium Content Visualization
+Git GitHub: Branching - Theory + Hands-On
+Git and GitHub: Merging - Process, Steps, and Merge Techniques
+Merge - Fast Forward in Git
+Merge - Recursive Merging (3-way) in Git and GitHub
+Conflict Resolution using Git - General Intro + Usage
+
+
+Requirements
+NO prior Git or GitHub or web development knowledge is required
+An email address is required to create a (free) GitHub account
+The course can be attended on Mac & Windows computers
+
+Who this course is for:
+Anybody who wants to learn what version management is & how it can help to organize your code and projects efficiently
+(Web) developers who want to learn new skills to increase their efficiency
+Anybody who wants to master Git & GitHub for private or professional projects
+
+
+
+Description
+No matter if you're just getting started with (web) development, if you're applying for a developer job or if you just need to refresh your knowledge - version control is a core skill you need to succeed as a developer!
+
+Git (a version control system) and Github (a cloud provider for Git managed projects) form an outstanding combination to provide the best possible experience to create and maintain a clearly structured project history!
+
+This course guides everyone (no prior knowledge is required!) through the core steps to use these tools in your daily projects with ease.
+
+What is Version Control?
+
+Saving & accessing data and tracking changes is what version control is all about. No matter if you're working on a private or a professional development project, code evolves, changes and continuously gets improved. A clean version management structure is therefore key to successfully manage the progress of your projects.
+
+What is Git?
+
+Git is a 100% free version management tool, specifically created for and used by developers all over the world to manage project code history locally on their machines (Windows, macOS, Linux/Unix).
+
+What is GitHub?
+
+GitHub is an online service, it is also free for many use cases (an account is all you need) and brings Git's local "file-tracking" strengths to the cloud. Storing project code online, updating code, accessing other team members' code or collaborating on large scale projects inside your organization - all possible with the help of GitHub!
+
+Why Should I Know these Tools?
+
+Version control is key to manage projects efficiently so not knowing Git and GitHub makes your daily developer life a lot more complicated. The same apply if you're currently looking for a new job in the industry, version control is required in any developer projects these days, so not knowing Git & GitHub puts you behind your competition!
+
+Although Git and GitHub are user friendly, both come with their own logic and "language". Getting started can therefore be a bit cumbersome and this is where this course comes into play!
+
+What do I Learn in this Course?
+
+This course starts at the very basics, no prior Git or GitHub knowledge is required! You'll learn how to use Git and how to write Git commands in the Mac Terminal or the Windows Command Prompt (optional refreshers on both are also part of the course).
+
+Starting with the first initialization of a so-called Git repository, we'll build up your knowledge step-by-step and understand the what & why behind concepts like branches, commits, the staging area, merging & rebasing, cloning, pushing & pulling branches and a lot more!
+
+What's Inside this Course?
+
+An optional Command Line Crash Course for both Windows & MacOS users
+
+Git Download & Installation
+
+Git Theory - Working Directory, Staging Area (Index) and Repository explained
+
+Creating Git Repositories
+
+Working with Commits
+
+Understanding Branches
+
+Understanding the HEAD and the detached HEAD
+
+Newly Introduced Git Commands with Git Version 2.23
+
+Deleting Data (Staged & Unstaged, Commits & Branches)
+
+Ignoring Files
+
+The Stash
+
+Merging, Rebasing and Cherry Picking
+
+Bringing Back Deleted Data with the Reflog
+
+Connecting Local Git Repositories to Remote GitHub Repositories
+
+Git Push & Pull (+ Fetch)
+
+Local, Remote Tracking & Remote Branches
+
+GitHub Collaborators & Contributors
+
+Forks & Pull Requests
+
+GitHub Issues
+
+Github Projects
+
+and so much more!
+
+All covered, explained and applied in easy to understand examples in the course!
+
+-
+
+In this course we'll find answers to questions like:
+
+"How can I delete my last commit?"
+
+"What is the Stash?"
+
+"What is the difference between a merge and a rebase (and what is cherry-picking actually)?"
+
+"How to bring back a deleted commit?"
+
+"What is the difference between a local tracking branch and a remote tracking branch?"
+
+-
+
+What are you waiting for, jump and board and let's GIT started :)
+
+Who this course is for:
+Anybody who wants to learn what version management is & how it can help to organize your code and projects efficiently
+(Web) developers who want to learn new skills to increase their efficiency
+Anybody who wants to master Git & GitHub for private or professional projects
+
+
+Requirements
+No previous knowledge of Git or GitHub required
+No tools or software knowledge is required
+A windows or mac computer
+Description
+Student feedback:
+
+*****
+
+"For someone who is new to Git and Github, this is a great start!" - Lance
+
+
+
+*****
+
+"For now it has been quite interesting, and the subtitles are in line with what is spoken, so to follow each video has been very easy, I hope to finish it in two days" - Miguel
+
+
+
+This course will teach you
+
+What Git and GitHub are
+
+How to use them to manage a project
+
+How to use git in a professional environment
+
+You will be able to confidently add Git and GitHub as skills to your CV
+
+We will go step by step and learn git commands that we can use on our everyday projects. We will also learn to navigate the GitHub website and create a central repository that we can share for collaborative software development projects.
+
+
+
+Sign up today and learn how to manage software code with Git and GitHub.
+
+
+
+30 day money back guarantee provided by Udemy
+
+Highly rated instructor with over 10.000 active students and growing monthly.
+
+Who this course is for:
+Beginner developers regardless of language or platform
+People who want to learn a versioning system
+
+
+
+Learn the basics of Git
+Git installation
+The basics of terminal
+Create your first local repository
+Make your first commit
+Learn how to check the history of your project
+Learn how to undo things using git checkout, git revert and git reset
+Learn how to ignore files from Git
+The Basics of GitHub
+Create your first repository on GitHub
+Pushing and Pulling
+Branching
+Merging branches
+Learn how to deal with merging conflicts locally and remotely
+Learn how to copy and clone the repository and how to contribute to the original project
+Learn how to set up collaboration team
+
+
+Requirements
+Text Editor
+Terminal
+No prior knowledge of Git and GitHub is required
+Description
+The Complete Git & GitHub Course
+
+If you create websites, web applications or mobile apps, or if you write any type of code, then, it's always good to use a version control system. This course will teach about one of the most popular and widely used version control systems today.   
+
+Nowadays any of the professional developer or designer needs to know how to work with Git and GitHub. Git allows you to record different versions of your project and lets you go back in time and check previous states of the project. As for the GitHub, it's an online service where you can share your code to the world and also it allows us to collaborate with different developers. so you if you want to learn those things then this is the right course for you.
+
+The course consists of lots of different topics. We will start from Git basics, where you can learn about how to install Git. We will go through the basics of the terminal, we will create our first local repository, and you will see how to save different versions of the project, as the snapshots, using commits. 
+
+Next, we will move on and learn about how to go back in time and check the previous states of the project, update them or even delete with help of git checkout, git revert and git reset.
+
+Once we get some solid knowledge about Git, then we will start learning about the basics of GitHub. We will go through the topics, such as creating the repository on GitHub, connecting the local repository to a remote one, making commits and much more.
+
+Next, we will move on and see how to work with one of the greatest features of Git, which is branching. You will learn about how to deal with branches locally and also, remotely. After that, we will refer to kinda complex stuff. We will show you how to merge branches with different methods, and also, how to deal with merge conflicts. 
+
+Next, it should be followed by forking and contributing. You will learn about how to copy someone else's remote repository on your GitHub account, how to clone it to your local computer and how to contribute to the original project.
+
+Finally, we will discuss how to collaborate on GitHub. We will go through some really important topics, such as, how to set up a collaboration team, how to define different rules for collaborators and much other stuff. 
+
+Throughout the course, if you have any questions, then you can feel free and post them in Q/A section, you will get fast and helpful support.     
+
+JOIN US!!!
+
+Who this course is for:
+Anyone who wants to learn about Git $ GitHub.
+Students who have some basic knowledge about version control systems and want to develop their skills
+
+
+
+
+What you'll learn
+Learn the key concepts of the Git source control system
+Step through the entire Git workflow
+Compare the different states in Git
+Manage files inside and outside the control of Git and GitHub
+Create and manage repositories on GitHub
+Create branches and resolve conflicts with confidence
+Save work in progress with Stashes
+Mark special events with Tags and Releases
+Even a bit of time travel within Git repositories and on GitHub
+Perform many of the same local Git operations directly on GitHub
+Join other GitHub projects by Forking and contribute back using Pull Requests
+Review and Accept Pull Requests from Others
+Share code with Gists
+Manage project defects or enhancement requests with GitHub Issues
+Group related repositories together with GitHub Organizations
+
+
+
+Requirements
+Basic computer skills
+Ability to install software on your computer
+Admin rights may be required for software installation
+Description
+This course will comprehensively cover the GitHub hosting service as a companion to the Git source control tool, which means no prior knowledge or experience is required. Students will emerge at the end with a very solid understanding and hands-on experience with Git and GitHub.
+
+Course Organization
+
+The course is divided into four major components:
+
+Introduction and Setup
+
+Learning Git Source Control
+
+All About GitHub
+
+Bonuses
+
+Each one of the above components spans multiple sections in this course.
+
+New! Video explaining how to resolve Git breaking when upgrading macOS each year
+
+Introduction
+
+The Introduction provides a welcome to the course including some useful tips for getting the most out of taking the course and how the course is designed. That is followed by the Core Concepts which go over some critical theory before diving straight into Git.
+
+After the introduction and core concepts, the first thing we do is a Quick Installation for both Windows and Mac. The Bonus section has a more comprehensive, step-by-step process for those that prefer it.
+
+Learning Git Source Control
+
+In The Basics, we walk through all the foundational commands needed to start a new project managed by Git (or enable Git for an existing project) all the way through making commits, including common file operations like moving and deleting files. We also cover how to exclude the wrong files from accidentally being committed and how to review your repository's history.
+
+With a strong foundation in place, we explore some more Advanced Git topics like comparing differences, branching and merge resolution, tagging special events, saving work in progress, and even a bit of time travel.
+
+All About GitHub
+
+The main part of this course is all about GitHub. We will explore GitHub indepth from a source control hosting repository perspective.
+
+In Welcome to GitHub we start off exploring some of the basic features of GitHub by creating a fresh repository and associate our local repository with it. Then, we prepare for the remainder of the course by setting up SSH Authentication, which we will use from this point forward. After that, we continue looking at the GitHub Repository, including many of the same operations we performed locally, but done directly within GitHub. Then in GitHub Repository Branches we dive into how Branches on GitHub and our local system work with each other.
+
+After we have comprehensively covered how GitHub repositories work, we focus on how GitHub Tags and Releases work and their relationship with local tags in Git. We can then use tags/releases while Comparing Differences on GitHub.
+
+We start tying things together in Social Coding where we join other projects on GitHub by forking and then submitting our contributions back using pull requests.
+
+Once part of a team, you might use GitHub Issues to track defects or enhancement requests.
+
+Sometimes you just need to share small parts of a file or a set of files, but don't want to bother with a full Git repository. That where GitHub Gists help out -- share just a snip of code or entire files.
+
+Finally, group related GitHub repositories with GitHub Organizations and manage permissions and access using teams.
+
+Bonuses
+
+The bonuses sections and lectures provide additional information, more comprehensive instructions, or non-critical lectures.
+
+Course Features
+
+All tools have installation and configuration sections to ensure no one is left behind.
+Presentations provide audio/video training of conceptual ideas. Since few like slide-ware presentations, slide-presentations are kept to a minimum.
+
+Screencasts provide a video of the instructor's computer system with any actions, commands, or screens displayed and narrated. There is nearly 5 hours of screencast based video training in order to step through each command or action in sufficient detail.
+
+All videos are available in high quality 1080p / Full HD resolution for sharp and clear viewing on modern desktops and tablets. 
+
+Several attachments and document lectures throughout the course provide supplemental information, illustrations, or other reference material.
+
+Moving Forward
+
+This course will expand periodically to include more topics, supporting materials and bonus content! Some content may be in direct response to student feedback or discussions -- so get engaged with the course discussions feature!
+
+Who this course is for:
+Anyone interested in using source control and specifically Git and GitHub
+Software engineers, developers, programmers new to Git or GitHub
+IT Managers or technical leads considering Git or GitHub for version control on their team
+Freelancers or other creative professionals
+
+
+
+Requirements
+Linux Basics
+Description
+Not sure where to start your DevOps journey? or
+
+Want to know what kind of activities a DevOps Engineer does on Git and GitHub in the real world? or
+
+Would you like to set up a production-ready Git environment for your developers? Then this course is for you. I have created this course from the perspective of a DevOps Engineer who is not writing application code much.  I have taken a real-world project to explain from creating a repository to releasing code onto the production environment. This gives a complete understanding of the power of Git and GitHub. I hope you will enjoy this course.
+
+
+
+We have covered various concepts like
+
+
+
+What is a version control system
+
+installing git on windows, Linux, and mac
+
+working with git bash
+
+creating repositories
+
+git stages
+
+git workflows
+
+creating GitHub account
+
+cloning repository
+
+push code onto the remote repository
+
+git clone vs. git pull
+
+git remote add
+
+working with commits on git
+
+git branches
+
+branching strategies
+
+committing changes on git branches
+
+resolving merge conflicts
+
+Fork a repository
+
+creating a pull request
+
+working with private repositories
+
+adding a collaborator
+
+creating protected branches
+
+tagging a commit
+
+reverted changes
+
+using .gitignore file
+
+git rebase
+
+git fetch vs. git pull
+
+how the git project does work
+
+setup git repository and branches for a new project
+
+allowing developers to check in code
+
+Enabling DevOps workflow on the Dev branch
+
+pull request (PR) to merge code from Dev to production
+
+Release code onto production
+
+Who this course is for:
+Any IT professional who wants to start their career on DevOps
+DevOps Engineer who want to get complete picture of Git & GitHub activities
+
+
+
+Requirements
+No Prior GIT experience is needed
+Description
+This is the one Single Course where you will learn everything about GIT from basics to advanced with many complex workflows
+Bitbucket is most used remote GIT repository in many companies and this course will give you complete knowledge on building pipelines, creating Pull requests and Jira integration.
+
+Every command in GIT has in depth explanation with real time usage so that you know when to use what command while  managing the code in you GIT repositories.
+
+In this course we'll find answers to many advance Work flow questions like:
+
+"How can I edit/delete my last commit?"
+
+"What is the difference between a merge and a rebase ?"
+
+"How to squash multiple commits to one commit"?
+
+"How to time travel to past commit and make changes"
+
+"How to find the Error commit from the bunch of commits"?
+
+"What is the Stash?"
+
+"How to reset the changes made in Staging, working directories"?
+
+"How to add commit from one branch to another?
+
+"How to bring back a deleted commit?"
+
+"What is the difference between a local tracking branch and a remote tracking branch?"
+
+Below are the commands on high level we use in this course.
+
+Clone
+Fork
+Fetch
+Pull
+Commit
+Push
+Stash
+Status
+Stash Pop
+Merge
+branch
+log
+Squash
+Reset Hard
+Reset Soft
+Rebase
+Merge squash
+Cherry-pick
+revert
+bisect
+reflog
+amend-commit
+Interactive rebase
+blame
+
+
+
+Apart from above commands, this course also covers how to create/review/approve/decline Pull requests in the Bit Bucket so that one can understand end to end flow of working with GIT in the projects.
+
+Understand Bitbucket Jira Integration
+
+· Understand creating Build Pipelines in Bitbucket for every code commit
+
+
+There are lot of quizzes included for knowledge check so that you can emerge as GIT Pro after the successful course completion
+
+
+
+
+
+Who this course is for:
+Software Engineers
+Any Engineer who writes the code
+
+
+
+
+
+
+Requirements
+No prior Git or GitHub knowledge is required
+Willingness to learn lots of new and exciting things!
+Description
+What will you achieve from this course?
+
+Welcome to Git & GitHub - A Real World Guide with Interview Q/A course:
+
+Learn Git fundamentals like repositories, branching, merging, commits, fetch, pull & more
+
+Dive into real world Git with GitHub by mastering pull request, fork, clone, GitHub issues, labels, code review and more
+
+Take your GitHub knowledge to the next level by integrating GitHub with Discord and Jenkins. Run entire GitHub workflow end to end
+
+Understand advanced Git concepts like rebase, rewriting history, rolling back changes with revert, reset, squash merge, cherry picking & more
+
+An entire chapter on how to find good open source project to get selected by recruiters, how to make your GitHub stand apart from the crowd, and interview q/a
+
+About the instructor
+
+Rajdeep Saha is a Principal Solutions Architect at AWS. He has migrated and designed numerous mission-critical apps in the cloud, handling millions of transactions. Rajdeep has presented at the biggest stages, such as AWS Re:Invent, AWS Summits, and Kubecon. He has authored multiple bestselling courses and mentored students successfully to cloud jobs, including FAANG companies. Rajdeep also runs a successful YouTube channel named "Cloud With Raj" with over 100K+ subscribers. He has over 250,000+ followers across the globe. Rajdeep takes pride in teaching real-world solutions and learnings beyond just theoretical information. You are in capable hands! All opinions are Rajdeep's own.
+
+
+
+Course Structure
+
+This course has four main areas - Git fundamentals, real world Git with GitHub, advanced Git, and Git and GitHub interview preparation.
+
+
+
+Please check out the list of lectures for detailed breakdown of each area.
+
+This is the course that could take your career to next level. Let's have some fun and build some awesome stuff together!
+
+Who this course is for:
+Developers, software engineers, and architects of all levels who wants to learn Git from real world perspective
+
+
+
+
+
+
+
+#########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+
+Requirements
+There are no prerequisites for this course! Whether you're a complete beginner or have some experience with version control, this course is designed to guide you step-by-step from the basics to advanced Git and GitHub workflows. All you need is a willingness to learn and a computer with internet access. We’ll cover everything you need to know, including setting up Git and GitHub, so you can dive in with no prior experience. Let's get started!
+Description
+Welcome to Mastering Git & GitHub: From Basics to Advanced Workflows! This comprehensive course is designed to take you through the fundamentals and advanced concepts of version control with Git and GitHub, helping you build a solid foundation and master the essential tools every developer needs for modern software development.
+
+Whether you're new to Git or looking to enhance your workflow, this course covers everything you need to know—from understanding the core concepts of Git and version control to mastering advanced GitHub features and integration techniques. You’ll learn how to manage code changes, collaborate with teams, and track the history of your project efficiently.
+
+Key Highlights:
+
+Introduction to Git & GitHub: Understand the importance of version control and get comfortable navigating Git repositories and GitHub.
+
+Git Fundamentals: Learn the key areas of Git, including the working area, commit area, staging area, and backup areas. Understand Git's snapshot feature, tracking indexes, and deltas.
+
+Git Configuration: Learn global configuration, managing .gitignore, creating aliases, and using commands like git reset and git fetch.
+
+Branching & Merging: Discover the concepts of main/master branches, feature branches, and how to manage and merge them effectively. Explore Git merge strategies, including fast-forward merge and rebase.
+
+Version Control in Action: Master Git commands for modifying commits (e.g., git amend, git squash), understanding orphan commits, and using cherry-pick to merge selective changes.
+
+GitHub Integration: Learn how to integrate Git with GitHub, create repositories, manage branches, and set up an optimal collaboration environment.
+
+Advanced Features: Explore advanced tools like GitViz for visualizing your repository, using GitKraken to streamline your workflow, resolving merge conflicts, and managing pull requests.
+
+Stashing, Reverting & Issue Management: Understand how to manage your work with stash, revert unwanted commits, and use GitHub’s issue management features for tracking progress.
+
+By the end of this course, you'll be able to:
+
+Set up Git repositories both locally and on GitHub.
+
+Manage branches and merges with ease.
+
+Handle conflicts, revisions, and commit amendments with confidence.
+
+Collaborate effectively with teams using GitHub’s advanced features, including forking, rebasing, and managing pull requests.
+
+Use Git for version control in real-world projects, enhancing your workflow with tools like GitViz and GitKraken.
+
+This course is perfect for developers, students, or anyone interested in mastering Git and GitHub to improve their development process. Whether you're working solo or in a team, this course will provide you with the skills to enhance your software version control and collaboration abilities.
+
+Who this course is for:
+𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬 who are new to version control and want to understand the core concepts of Git and GitHub.
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 looking to improve their Git workflow and learn advanced features like rebasing, stashing, and resolving merge conflicts.
+𝐓𝐞𝐚𝐦 𝐦𝐞𝐦𝐛𝐞𝐫𝐬 and 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐬 who need to learn GitHub for managing projects and contributing to shared codebases.
+𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬 or 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭𝐬 who want to streamline their coding process and improve version control practices.
+𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞𝐫𝐬 or 𝐢𝐧𝐝𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐭 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 who need a strong understanding of Git and GitHub to manage personal projects, collaborate with clients, and maintain code versions effectively.
+𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬 who want to streamline their development and deployment workflows using Git and GitHub, ensuring efficient version control and collaboration across teams.
+
+############################################################################################################################################
+Cherry-picking is useful for selectively applying specific commits, 
+
+Git Flow : 
+
+Overview: Git Flow uses a main branch for production, a develop branch for integration, and feature branches for new work. Hotfix and release branches handle specific needs.
+
+Branches and Their Purpose:
+
+   1. main branch:
+
+        - Represents production-ready code.
+        - Only stable, release-ready commits should be present here.
+
+   2. develop branch:
+
+        - Used as the integration branch for features and fixes.
+        - It contains the latest development changes that are not yet released.
+
+   3. Feature branches:
+
+        - Created from develop.
+        - Used for developing new features.
+        - Once complete, they are merged or rebased back into develop.
+        -  Usually short-lived.
+
+    4. Release branches:
+
+       - Created from develop when it's time to prepare a new production release.
+       - Used for final testing, bug fixes, and versioning.
+       - Merged into both main and develop upon release.
+
+   5. Hotfix branches:
+
+       - Created from main to address urgent issues in production.
+       - After the fix, the branch is merged into both main and develop.
+
+Note:
+Instead of merging, developers may rebase their feature branches onto the target branch (e.g., main or develop) to maintain a linear commit history. This can help keep the project history clean, though it should be done with caution on shared branches.
