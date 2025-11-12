@@ -14,7 +14,7 @@
      - Copy from: `Deploy_on_Docker_Container_using_Ansible_playbooks`
      
    - *Source Code Management:*
-      - Repository: `https://github.com/yankils/hello-world.git`
+      - Repository: `https://github.com/harikrishnacheruku866/hello-world.git`
       - Branches to build : `*/master`  
    - *Poll SCM* :      - `* * * *`
 
@@ -49,7 +49,7 @@ Save and run the job.
       - *SSH Publishers*  
 	       - Exec command: 
                 ```sh 
-                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-valaxy-deployment.yml;
-                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-valaxy-service.yml;
+                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-blujay-deployment.yml;
+                ansible-playbook -i /opt/docker/hosts /opt/docker/kubernetes-blujay-service.yml;
                 ```
 Save and run the job.
